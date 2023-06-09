@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <title>Artículo 1</title>
+  <description>Descripción del artículo 1</description>
+  <author>Pedro Simón</author>
+  <link>https://www.peonderey.com/articulo1</link>
+  <pubDate>2023-06-01</pubDate>
+  <source>https://www.peonderey.com</source>
+  <media>
+    <type>imagen</type>
+    <url>https://www.google.com/imgres?imgurl=https%3A%2F%2Fs1.eestatic.com%2F2019%2F11%2F18%2Fcomo%2Fcomo_hacer_445466487_138283315_1706x960.jpg&tbnid=oXYQmS_UOB6nJM&vet=12ahUKEwiD_JLb87T_AhUvmicCHUi4B7MQMygFegUIARD6AQ..i&imgrefurl=https%3A%2F%2Fwww.elespanol.com%2Fcomo%2Fjugar-ajedrez-reglas%2F445455793_0.html&docid=YkhZSwURCik1OM&w=1706&h=960&q=imagenes%20ajedrez&client=opera-gx&ved=2ahUKEwiD_JLb87T_AhUvmicCHUi4B7MQMygFegUIARD6AQ</url>
+  </media>
+</item>
+
+<item>
+  <title>Artículo 2</title>
+  <description>Descripción del artículo 2</description>
+  <author>Juan Pérez</author>
+  <link>https://www.peonderey.com/articulo2</link>
+  <pubDate>2023-06-02</pubDate>
+  <source>https://www.peonderey.com</source>
+  <media>
+    <type>imagen</type>
+    <url>https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.abc.es%2Fmedia%2Fbienestar%2F2022%2F10%2F27%2Fajedrez-unsplash-kphH--1200x630%40abc.jpg&tbnid=jWoPv9YeTd8YFM&vet=12ahUKEwiD_JLb87T_AhUvmicCHUi4B7MQMygJegUIARCCAg..i&imgrefurl=https%3A%2F%2Fwww.abc.es%2Fbienestar%2Fpsicologia-sexo%2Fpsicologia%2Fabci-ajedrez-ensenado-no-buscar-excusas-externas-y-capaz-afrontar-derrotas-202210270050_noticia.html&docid=3X2lOQBliSTwBM&w=1200&h=630&q=imagenes%20ajedrez&client=opera-gx&ved=2ahUKEwiD_JLb87T_AhUvmicCHUi4B7MQMygJegUIARCCAg</url>
+  </media>
+</item>
+
+<item>
+  <title>Artículo 3</title>
+  <description>Descripción del artículo 3</description>
+  <author>Marta López</author>
+  <link>https://www.peonderey.com/articulo3</link>
+  <pubDate>2023-06-03</pubDate>
+  <source>https://www.peonderey.com</source>
+  <media>
+    <type>imagen</type>
+    <url>https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.freepik.com%2Fvector-gratis%2Ftablero-ajedrez-madera_1284-50483.jpg&tbnid=ztz1hI4MJte6ZM&vet=12ahUKEwiD_JLb87T_AhUvmicCHUi4B7MQMygOegUIARCDAg..i&imgrefurl=https%3A%2F%2Fwww.freepik.es%2Fvectores-gratis%2Ftablero-ajedrez-madera_6552206.htm&docid=acxDtc6teJ_D5M&w=626&h=417&q=imagenes%20ajedrez&client=opera-gx&ved=2ahUKEwiD_JLb87T_AhUvmicCHUi4B7MQMygOegUIARCDAg</url>
+  </media>
+</item>
+
+<item>
+  <title>Artículo 4</title>
+  <description>Descripción del artículo 4</description>
+  <author>Carlos Gómez</author>
+  <link>https://www.peonderey.com/articulo4</link>
+  <pubDate>2023-06-04</pubDate>
+  <source>https://www.peonderey.com</source>
+  <media>
+    <type>imagen</type>
+    <url>https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ajedrez-de-estilo.com%2Fwp-content%2Fuploads%2F2020%2F12%2FAn%C3%A1lisis-Completo-de-Juegos-de-Ajedrez-y-Lectura-de-Partidas-1.jpg&tbnid=5OD8qMBZC0_zOM&vet=12ahUKEwiD_JLb87T_AhUvmicCHUi4B7MQMygQegUIARCgAQ..i&imgrefurl=https%3A%2F%2Fwww.ajedrez-de-estilo.com%2Fanalisis-completo-de-juegos-de-ajedrez-y-lectura-de-partidas%2F&docid=wSfIuIeqRiqc-M&w=1200&h=800&q=imagenes%20ajedrez&client=opera-gx&ved=2ahUKEwiD_JLb87T_AhUvmicCHUi4B7MQMygQegUIARCgAQ</url>
+  </media>
+</item>
